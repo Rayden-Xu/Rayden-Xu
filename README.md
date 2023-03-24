@@ -1,6 +1,6 @@
 # 😊 Hi there!
 
-- 👋 Hi, Welcome to my github. I’m **Yuqing**. I currently live in 🇺🇸Seattle, USA. I'm in the second year of my CS 🎓master's program at Northeastern University, USA. 
+- 👋 Hi, Welcome to my github. I’m **Rundong**. I currently live in 🇺🇸Boston, USA. I'm in the second year of my CS 🎓master's program at Northeastern University, USA. 
 - <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjRdTyNe1cI73L3wvoofNZfebGS0KKNa3r6_n8WP1oa0kaRur0TifwPJwsGQEj-930Yz8WCX-ExrZJB2iNGTOas4IRhIQMbLTU2emCVq1XPm7bafp5bowC-NyV1XeAAVbz7pwyO07C7R9Eq76s3_Qkr6gYqX0xxN1RbPomgLQgU_kzcOoGwuUwRI5TQ=s512" height="50"> I'm GSoC 2022 contributor.
 - I love 👩‍💻coding. I play 🎹piano and 🥁drumset, love to play computer & board games, enjoy food and traveling.<br>
 
@@ -29,12 +29,8 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br><br>
 - 📫 How to reach me <br>
-<a href="https://www.linkedin.com/in/yuqing-bian/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)</a>
-<a href="mailto: byq0716@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)</a>
-<a href="https://github.com/Yuq-Bian">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/raydenxu/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)</a>
+<a href="mailto:rexanderxu@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)</a>
+<a href="https://github.com/Rayden-Xu">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)</a>
 ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=plastic&logo=wechat&logoColor=white)
 
-<!---
-Yuq-Bian/Yuq-Bian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
