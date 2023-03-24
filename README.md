@@ -1,7 +1,13 @@
 # 😊 Hi there!
 
 - 👋 Hi, Welcome to my github. I’m **Rundong**. I currently live in 🇺🇸Boston, USA. I'm in the second year of my Data Ananlytics Engineering 🎓master's program at Northeastern University, USA. 
-- <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjRdTyNe1cI73L3wvoofNZfebGS0KKNa3r6_n8WP1oa0kaRur0TifwPJwsGQEj-930Yz8WCX-ExrZJB2iNGTOas4IRhIQMbLTU2emCVq1XPm7bafp5bowC-NyV1XeAAVbz7pwyO07C7R9Eq76s3_Qkr6gYqX0xxN1RbPomgLQgU_kzcOoGwuUwRI5TQ=s512" height="50"> I Win Kaggle NLP Competition Gold Medal(Rank 2nd) 2022
+- <img src="" height="50">
+
+Aspiring BI Analytcis Engineer and Data Scientist(Gold medal in Kaggle NLP competition)
+Focusing on constructing or intergrating efficient and scalable Data/BI infrastructure from 0-1 in cloud(AWS, Azure) with informative report system, then automating ETL pipeline and MLops to deploy containable and efficient data science full stack.
+Proficient in constructing Data application by Python(Streamlit) and R(Shiny) to output Machine learning MVP practise , accelerating process of software development and go-to market!
+
+I Win Kaggle NLP Competition Gold Medal(Rank 2nd) 2022
 - I love 👩‍💻coding. I play 🎹piano and 🥁drumset, love to play computer & board games, enjoy food and traveling.<br>
 
 <img src="https://cdn.pixabay.com/photo/2014/06/13/00/16/figure-367946_960_720.png" height="200"><img src="https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_960_720.png" height="200"><br>
