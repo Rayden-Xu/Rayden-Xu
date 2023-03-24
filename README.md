@@ -1,5 +1,9 @@
 # 😊 Hi there!
-- <img src="" height="50">
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif" width="300"/>
+</div>
+
 - 👋 Hi, Welcome to my github. I’m **Rundong**. I currently live in 🇺🇸Boston, USA. I'm in the second year of my Data Ananlytics Engineering 🎓master's program at Northeastern University, USA. 
 - Aspiring BI Analytcis Engineer and Data Scientist(Gold medal in Kaggle NLP competition)
 - Focusing on constructing or intergrating efficient and scalable Data/BI infrastructure from 0-1 in cloud(AWS, Azure) with informative report system, then automating ETL pipeline and MLops to deploy containable and efficient data science full stack.
