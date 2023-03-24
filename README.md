@@ -9,7 +9,7 @@
 - Proficient in constructing **Data application** by Python(Streamlit) and R(Shiny) to output Machine learning MVP practise , accelerating process of software development and go-to market!
 
 
-Win Kaggle NLP Competition Gold Medal(Rank 2nd) 2022
+- **I Win the Kaggle NLP Competition Gold Medal(Rank 2nd) 2022**
 - I love 👩‍💻coding. I play 🎹piano and 🥁drumset, love to play computer & board games, enjoy food and traveling.<br>
 
 <img src="https://cdn.pixabay.com/photo/2014/06/13/00/16/figure-367946_960_720.png" height="200"><img src="https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_960_720.png" height="200"><br>
