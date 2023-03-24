@@ -1,15 +1,17 @@
 # 😊 Hi there!
 
+
+
+- 👋 Hi, Welcome to my github. I’m **Rundong**. Aspiring BI Analytcis Engineer and Data Scientist(Gold medal in Kaggle NLP competition), I currently live in 🇺🇸Boston, USA. I would graduate in May 2023 with Data Ananlytics Engineering 🎓master's degree at Northeastern University, USA. 
+
+- I Focus on constructing or intergrating efficient and scalable Data/BI infrastructure from 0-1 in cloud(AWS, Azure) with informative report system, then automating ETL pipeline and MLops to deploy containable and efficient data science full stack.
+- Proficient in constructing Data application by Python(Streamlit) and R(Shiny) to output Machine learning MVP practise , accelerating process of software development and go-to market!
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif" width="300"/>
 </div>
 
-- 👋 Hi, Welcome to my github. I’m **Rundong**. I currently live in 🇺🇸Boston, USA. I'm in the second year of my Data Ananlytics Engineering 🎓master's program at Northeastern University, USA. 
-- Aspiring BI Analytcis Engineer and Data Scientist(Gold medal in Kaggle NLP competition)
-- Focusing on constructing or intergrating efficient and scalable Data/BI infrastructure from 0-1 in cloud(AWS, Azure) with informative report system, then automating ETL pipeline and MLops to deploy containable and efficient data science full stack.
-- Proficient in constructing Data application by Python(Streamlit) and R(Shiny) to output Machine learning MVP practise , accelerating process of software development and go-to market!
-
-I Win Kaggle NLP Competition Gold Medal(Rank 2nd) 2022
+Win Kaggle NLP Competition Gold Medal(Rank 2nd) 2022
 - I love 👩‍💻coding. I play 🎹piano and 🥁drumset, love to play computer & board games, enjoy food and traveling.<br>
 
 <img src="https://cdn.pixabay.com/photo/2014/06/13/00/16/figure-367946_960_720.png" height="200"><img src="https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_960_720.png" height="200"><br>
