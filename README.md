@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif" width="300"/>
 </div>
 
-- I Focus on constructing or intergrating efficient and scalable **Data/BI infrastructure** from 0-1 in cloud(AWS, Azure) with informative report system, then automating **ETL pipeline** and **MLops** to deploy containable and efficient data science full stack.
+- I focus on constructing or intergrating efficient and scalable **Data/BI infrastructure** from 0-1 in cloud(AWS, Azure) with informative report system, then automating **ETL pipeline** and **MLops** to deploy containable and efficient data science full stack.
 - Proficient in constructing **Data application** by Python(Streamlit) and R(Shiny) to output Machine learning MVP practise , accelerating process of software development and go-to market!
 
 
