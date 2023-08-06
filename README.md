@@ -6,7 +6,9 @@
   <img src="https://media.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif" width="300"/>
 </div>
 - I have proven record to function as a **"Bridge"** or **"Data center"** to collarbrate with the the software engineer and cross-function team.
+
 - Specifically, I focus on constructing or intergrating efficient and scalable **Data/BI infrastructure** from 0-1 in cloud(AWS, Azure) and professional high concurrency OLTP/OLAP data model, proficient in spreading it to the informative report system by dbt, then automating **ETL pipeline** and **MLops** to deploy containable and efficient data full stack.
+
 - Proficient in constructing **Data application** by Python(Streamlit) and R(Shiny) to output Machine learning MVP practise , accelerating process of software development and go-to market!
 
 
