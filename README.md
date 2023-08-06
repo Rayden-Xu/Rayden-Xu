@@ -1,6 +1,6 @@
 # 😊 Hi there!
 
-- 👋 Hi, Welcome to my github. I’m **Rundong**. Aspiring BI Analytcis Engineer and Data Scientist(**Gold medal(Rank 2nd) in Kaggle NLP competition**), I currently live in 🇺🇸Boston, USA. I would graduate in May 2023 with **Data Ananlytics Engineering 🎓master's degree** at Northeastern University, USA.
+- 👋 Hi, Welcome to my github. I’m **Rundong**. Aspiring Analytcis Engineer and Data Scientist(**Gold medal(Rank 2nd) in Kaggle NLP competition**), I currently live in 🇺🇸Boston, USA. I would graduate in May 2023 with **Data Ananlytics Engineering 🎓master's degree** at Northeastern University, USA.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif" width="300"/>
