@@ -1,6 +1,6 @@
 # 😊 Hi there!
 
-- 👋 Hi, Welcome to my github. I’m **Rayden**. Big Data Engineer and AI Data Scientist(**Gold medal(Rank 2nd) in Kaggle NLP competition**), I currently live in 🇺🇸Santa Clara, CA. I would graduate in May 2023 with **Data Ananlytics Engineering 🎓master's degree** at Northeastern University, USA.
+- 👋 Hi, Welcome to my github. I’m **Rayden**. Big Data Engineer and AI Data Scientist(**Gold medal(Rank 2nd) in Kaggle NLP competition**), I currently live in 🇺🇸Santa Clara, CA
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif" width="300"/>
